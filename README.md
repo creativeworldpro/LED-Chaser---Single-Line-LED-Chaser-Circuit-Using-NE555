@@ -6,8 +6,10 @@ Get SMT Coupons: https://jlcpcb.com/RTA
 
 
 
+
 In this video, we are going to show you making a simple electronics project. It is called LED chaser. You can call this single line led chaser circuit.
 We are making this circuit using a timer cheap IC. To decorate your home or office you can use this circuit.
+
 
 
 To make this project, we might need some electronics component. Those component list have to been given below.
@@ -22,6 +24,8 @@ Component List :
 4. LED – 5mm (red and blue)
 5. Copper Wire
 6. Power Source – DC 12v
+
+
 
 Circuit Connection – 
 
